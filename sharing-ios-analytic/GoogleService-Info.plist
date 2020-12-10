@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971285628504-5blk49av181b2528n4sh7csgmmtj6usr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971285628504-5blk49av181b2528n4sh7csgmmtj6usr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsOCu5YzXSG0isxjrYg23241X0ben4NoY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971285628504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>id.gits.sharing-ios-analytic</string>
+	<key>PROJECT_ID</key>
+	<string>sharing-ios-analytic</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sharing-ios-analytic.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971285628504:ios:8418de23f05dd5888aec2d</string>
+</dict>
+</plist>

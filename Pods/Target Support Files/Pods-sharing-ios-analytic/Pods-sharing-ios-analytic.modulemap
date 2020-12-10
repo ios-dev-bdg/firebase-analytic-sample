@@ -1,0 +1,6 @@
+framework module Pods_sharing_ios_analytic {
+  umbrella header "Pods-sharing-ios-analytic-umbrella.h"
+
+  export *
+  module * { export * }
+}
